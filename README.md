@@ -1,1 +1,1 @@
-it Contain some important quetions of java.
+It Contain some important quetions of java.
